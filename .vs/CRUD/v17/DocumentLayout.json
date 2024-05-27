@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\curd\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\migrations\\crudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\crudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\migrations\\20240527072423_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\migrations\\20240527072423_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|d:\\curd\\crud\\crud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB57C629-71E3-4B77-83AC-D3FC31C8C7B4}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:09:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:09:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:09:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:09:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:09:08.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:06.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUDContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Migrations\\CRUDContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\CRUDContextModelSnapshot.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Migrations\\CRUDContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\CRUDContextModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:34:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUDContext.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Data\\CRUDContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\CRUDContext.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Data\\CRUDContext.cs",
+              "RelativeToolTip": "CRUD\\Data\\CRUDContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:06.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:32.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240527072423_initial.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Migrations\\20240527072423_initial.cs",
+              "RelativeDocumentMoniker": "CRUD\\Migrations\\20240527072423_initial.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Migrations\\20240527072423_initial.cs",
+              "RelativeToolTip": "CRUD\\Migrations\\20240527072423_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:08.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CRUD\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:33:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:12.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CRUD\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "CRUD\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:09.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:09:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\curd\\CRUD\\CRUD\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CRUD\\Model\\User.cs",
+              "ToolTip": "D:\\curd\\CRUD\\CRUD\\Model\\User.cs",
+              "RelativeToolTip": "CRUD\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:55:02.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
